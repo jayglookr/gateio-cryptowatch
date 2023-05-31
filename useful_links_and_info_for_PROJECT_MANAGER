@@ -1,0 +1,33 @@
+#cryptowatch website links
+https://docs.cryptowat.ch/rest-api/
+https://docs.cryptowat.ch/rest-api/markets/ohlc
+
+
+#this is the exchange you will be getting market data (asset pairs) for:
+" Gate.io
+gateio
+https://api.cryptowat.ch/markets/gateio "
+
+
+
+#cryptowatch official python sdk library
+https://github.com/cryptowatch/cw-sdk-python#cryptowatch-python-sdk
+https://github.com/cryptowatch/cw-sdk-python#installation
+https://github.com/cryptowatch/cw-sdk-python#api-credentials
+https://github.com/cryptowatch/cw-sdk-python#rest-api
+
+
+
+#python-cryptowatch docs unofficial library
+https://github.com/uoshvis/python-cryptowatch#python-cryptowatch
+https://github.com/uoshvis/python-cryptowatch#quick-start
+https://github.com/uoshvis/python-cryptowatch
+https://python-cryptowatch.readthedocs.io/en/latest/overview.html
+https://python-cryptowatch.readthedocs.io/en/latest/general.html
+https://python-cryptowatch.readthedocs.io/en/latest/general.html#id1
+https://python-cryptowatch.readthedocs.io/en/latest/general.html#id2
+https://python-cryptowatch.readthedocs.io/en/latest/general.html#id3
+https://python-cryptowatch.readthedocs.io/en/latest/general.html#id4
+https://python-cryptowatch.readthedocs.io/en/latest/general.html#id5
+https://python-cryptowatch.readthedocs.io/en/latest/cryptowatch.html
+
