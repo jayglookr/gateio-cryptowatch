@@ -23,7 +23,7 @@ sqlalchemy
 #python-binance
 
 
-# data providers
+# data providers and data provider APIs
 cryptowatch-sdk
 
 #polygon-api-client
@@ -44,6 +44,7 @@ seaborn
 backtrader
 pyalgotrade
 bt
+backtesting
 
 # portfolio, performance analysis
 pyfolio
@@ -74,7 +75,10 @@ redis
 h5py
 
 
-###### machine learning
-# tensorflow
-# scikit-learn
-# keras
+# machine learning
+tensorflow
+scikit-learn
+keras
+
+# .env related
+python-dotenv
