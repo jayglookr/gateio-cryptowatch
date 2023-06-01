@@ -28,7 +28,7 @@ cryptowatch-sdk
 
 #polygon-api-client
 
-#yfinance
+yfinance
 
 
 # visualization
@@ -38,7 +38,7 @@ dash
 mplfinance
 jupyterlab
 seaborn 
-#pillow
+pillow
 
 # backtesting
 backtrader
