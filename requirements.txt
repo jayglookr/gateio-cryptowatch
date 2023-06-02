@@ -1,29 +1,54 @@
 #the following libraries are available to import
 
 # data analysis libraries
-numpy==1.23.0
-scipy==1.8.0
-pandas==1.4.0
+from lib2to3 import btm_matcher
+
+
+numpy==1.23.*
+scipy==1.8.*
+pandas==1.4.*
 # technical analysis, indicator libraries
-TA-Lib==0.4.24
+TA-Lib==0.4.*
+bta-lib
+pandas-ta
+tulipy
 # database connection, ORM
+psycopg2
+sqlalchemy
 # broker API libraries
 #alpaca-trade-api
 #python-binance
 # data providers and data provider APIs
+cryptowatch-sdk
+
 #polygon-api-client
-yfinance==0.2.18
+yfinance==0.2.*
 # visualization
-matplotlib==3.5.1
-plotly==5.14.1
-mplfinance==0.12.8b6
-seaborn==0.12.2
-Pillow==9.5.0
+matplotlib==3.5.*
+plotly==5.14.*
+mplfinance==0.12.*
+seaborn==0.12.*
+Pillow==9.5.*
+dash
+jupyterlab
 # backtesting
+backtesting
+backtrader
+pyalgotrade
+btm_matcher
 # portfolio, performance analysis
+pyfolio
+finquant
 # web frameworks and extensions
 fastapi==0.74.0
 aiofiles==0.7.0
+flask
+flask-cors
+flask-login
+flask-sqlalchemy
+itsdangerous
+aiofiles
+chalice
 # servers, task queue
 # networking
 requests==2.26.0
@@ -31,7 +56,11 @@ websocket-client==1.2.3
 websockets==9.1
 # other data stores, formats
 redis==4.1.4
+h5py
 # machine learning
+tensorflow
+scikit-learn
+keras
 # .env related
 python-dotenv==0.19.2
 
