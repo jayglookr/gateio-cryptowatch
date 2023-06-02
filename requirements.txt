@@ -1,7 +1,7 @@
 #the following libraries are available to import
 
 # data analysis libraries
-from lib2to3 import btm_matcher
+
 
 
 numpy==1.23.*
@@ -51,7 +51,7 @@ aiofiles
 chalice
 # servers, task queue
 # networking
-requests==2.26.0
+requests==2.31.0
 websocket-client==1.2.3
 websockets==9.1
 # other data stores, formats
