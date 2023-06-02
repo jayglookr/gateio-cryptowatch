@@ -1,0 +1,20 @@
+#getting psycopg2 installed is a tremendous pain
+#here is how you can get it done on a debian based linux system
+#first update your system
+sudo apt-get update
+
+#then install this, SPECIFICALLY
+sudo apt-get -y install python3-pip
+
+#try to install, but it's still going to fail
+pip3 install psycopg2
+
+#now be sure to CLEAR your terminal before proceeding
+clear
+sudo apt install libpq-dev python3-dev
+pip3 install psycopg2
+
+#finally! check your installation and see that no error msg is output
+python3 -c "import psycopg2";
+
+#if you ran that last cpmmand and nothing happened, you are all good!
