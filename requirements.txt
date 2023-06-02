@@ -3,7 +3,7 @@
 # data analysis libraries
 numpy==1.23.0
 scipy==1.8.0
-pandas==2.0.2
+pandas
 # technical analysis, indicator libraries
 TA-Lib==0.4.24
 # database connection, ORM
