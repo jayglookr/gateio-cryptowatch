@@ -11,7 +11,7 @@ pandas==1.4.*
 TA-Lib==0.4.*
 bta-lib
 pandas-ta
-tulipy
+#tulipy
 # database connection, ORM
 psycopg2
 sqlalchemy
